@@ -31,6 +31,32 @@ The app enables users to search and apply for jobs, save jobs, receive notificat
 * RecyclerView
 * Material Components
 
+## 📸 Screenshots
+
+### Splash Screen
+![Splash Screen](screenshots/splashscreen.jpeg)
+
+### Login Screen
+![Login Screen](screenshots/login.jpeg)
+
+### Register Screen
+![Register Screen](screenshots/register.jpeg)
+
+### Home Screen
+![Home Screen](screenshots/home.jpeg)
+
+### Jobs Screen
+![Jobs Screen](screenshots/jobs.jpeg)
+
+### Saved Jobs Screen
+![Saved Jobs Screen](screenshots/saved.jpeg)
+
+### Applied Jobs Screen
+![Applied Jobs Screen](screenshots/applied.jpeg)
+
+### Profile Screen
+![Profile Screen](screenshots/profile.jpeg)
+
 ## Project Architecture
 
 * Activities
