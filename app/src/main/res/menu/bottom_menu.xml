@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+
+    <item
+        android:id="@+id/jobs"
+        android:title="Jobs"
+        android:icon="@drawable/job_icon"/>
+
+    <item
+        android:id="@+id/applied"
+        android:title="Applied"
+        android:icon="@drawable/outline_assignment_turned_in_24"/>
+
+    <item
+        android:id="@+id/saved"
+        android:title="Saved"
+        android:icon="@drawable/outline_bookmark_24"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/outline_person_24"/>
+
+</menu>
